@@ -1,0 +1,49 @@
+#Nav-link{
+padding: 10px;
+text-decoration: none;
+font-family:monospace;
+color: rgb(50, 247, 10);
+
+
+}
+
+#img-1{
+border-radius: 10px;
+
+
+}
+#name-id{
+color: brown;  
+}
+#link-edite{
+text-decoration: none;
+background-color: rgb(255, 153, 0);
+color: wheat;
+padding: 5px;
+font-size: 20;
+
+
+
+}
+#addlink{
+text-decoration: none;
+
+font-size: 20px;
+border: 2px solid blueviolet;
+padding: 10px;
+background-color: blueviolet;
+color: aliceblue;
+position: absolute ;
+margin-top: -6px;
+margin-left: 180px;
+
+
+
+}
+#logtlink{
+float: right;
+margin-right: 200px;
+
+
+
+}
